@@ -1,2 +1,2 @@
-# Kas-ki-taiky-
-For essay
+# Kaski-taikyu-
+For collaboration
